@@ -30,5 +30,4 @@ public class FindAnagrams {
         }
         return map;
     }
-
 }
