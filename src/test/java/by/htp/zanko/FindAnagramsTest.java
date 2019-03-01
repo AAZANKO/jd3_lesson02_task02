@@ -28,5 +28,4 @@ public class FindAnagramsTest {
         Map<String, String> map = findAnagrams.getFindAnagrams(arrayString);
         Assert.assertNotNull(map);
     }
-
 }
